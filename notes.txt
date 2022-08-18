@@ -1,8 +1,11 @@
 landing page alanına animasyon eklenecek.
-mobil tasarım media query tamamlanacak.
+mobil tasarım media query tamamlanacak. --tamamlandı
 image alanlarında görseller tamamlanacak
 Project alanında görsel alanına animasyon eklenecek
-button görünümleri iyileştirme yapılacak.
+button görünümleri iyileştirme yapılacak. --tamamlandı
 dark mode durumu eklenecek.
 Proje react js olarak tekrardan yayınlanacak.
-smooth scroll özelliği aktif edilecek.
+smooth scroll özelliği aktif edilecek. --tamamlandı
+
+-----
+navbar eklenecek
