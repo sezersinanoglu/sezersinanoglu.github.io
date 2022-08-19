@@ -1,7 +1,7 @@
 # sezersinanoglu.github.io
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/15064090?v=4"/>
+  <img src="https://avatars.githubusercontent.com/u/15064090?s=40&v=4"/>
 </p>
 <h1 align="center">
  Html & Css portfolio example
