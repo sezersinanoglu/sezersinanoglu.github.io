@@ -4,10 +4,10 @@
   <img src="https://avatars.githubusercontent.com/u/15064090?v=4"/>
 </p>
 <h1 align="center">
-  React Social Links
+ Html & Css portfolio example
 </h1>
 <p align="center">
-  The first iteration of <a href="https://sury.netlify.app" target="_blank">sury.netlify.app</a> built with React.js leveraging Tailwind CSS.
+  The first iteration of <a href="https://sezersinanoglu.github.io" target="_blank">sezersinanoglu.github.io</a> built with Html Css js.
 </p>
 
 ![sury](https://raw.githubusercontent.com/sezersinanoglu/sezersinanoglu.github.io/main/portfolio-hero.jpg)
